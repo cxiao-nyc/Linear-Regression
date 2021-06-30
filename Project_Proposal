@@ -1,0 +1,29 @@
+# Project Proposal Linear Regression
+
+## Predicting TV Show Ratings on IMDB
+
+The goal of this project is to predict the rating of a TV Show on IMDB. To predict the scores, it is important to understand the different features that are affecting a show's rating. The film industry can use this model to predict how well their show is doing according to features. 
+
+Webscraping using Selenium and BeautifulSoup will be needed to retrieve data from IMDB.com. I will be obtaining all the shows that are listed on IMDB and using the data obtained by websraping to predict a show's rating level. Features that may affect TV rating levels include:
+- Genre
+- Awards
+- Stars
+- Creator
+- Number of Episodes
+- Official Streaming Site
+- Production Company 
+- Runtime
+- Release Date
+- Certifcations
+
+Tools that I will be using to achieve this prediciton includes:
+- BeautifulSoup to webscrape
+- Selenium to webscrape
+- Pandas to make dataframes and analyze
+- Matplotlib/Seaborn to visualize features and target value
+- Sklearn to perform statistical computation on IMDB data
+
+
+
+
+
