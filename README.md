@@ -1,5 +1,5 @@
 
-# Predicting IMDB Rating on Movies¶
+# Predicting IMDB Rating on Movies
 
 Connie Xiao
 
